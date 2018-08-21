@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c052675d-5ae2-4ef2-81cd-8c45dba37240" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/solutions_7_arek$FooBarTest_testForProperValues.ic" NAME="FooBarTest.testForProperValues Coverage Results" MODIFIED="1534077685249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.coderstrust.foobar.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/solutions_7_arek$PascalTriangleTest.ic" NAME="PascalTriangleTest Coverage Results" MODIFIED="1534810696608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.coderstrust.pascal.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/solutions_7_arek$FooBarTest.ic" NAME="FooBarTest Coverage Results" MODIFIED="1534810666528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.coderstrust.foobar.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/solutions_7_arek$ChristmasTreeTest.ic" NAME="ChristmasTreeTest Coverage Results" MODIFIED="1534810649156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.coderstrust.christmas.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/solutions_7_arek$MultiplicationTableTest.ic" NAME="MultiplicationTableTest Coverage Results" MODIFIED="1534811127049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.coderstrust.multiplication.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/solutions_7_arek$ChristmasTreeTest_testForNegativeSizes.ic" NAME="ChristmasTreeTest.testForNegativeSizes Coverage Results" MODIFIED="1534208004089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.coderstrust.christmas.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="151" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1677918648">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="46" />
+          <entry key="snippet" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="46" />
+          <entry key="Scratch" value="1" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="20242" />
+          <entry key="snippet" value="3" />
+          <entry key="xml" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="20242" />
+          <entry key="Scratch" value="3" />
+          <entry key="XML" value="14" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pl/coderstrust/pascal/PascalTriangleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pl/coderstrust/christmas/ChristmasTreeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/pascal/PascalTriangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pl/coderstrust/foobar/FooBarTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="41" column="50" lean-forward="true" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/foobar/FooBar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/multiplication/MultiplicationTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pl/coderstrust/multiplication/MultiplicationTableTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ystem.out</find>
+      <find>System.out</find>
+      <find>ArrayOfNumbers</find>
+      <find>equal</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>outputStream</replace>
+      <replace>MyArray</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/solutions/udemy/section5/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/solutions/udemy/section5/HelloWorld2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/solutions/udemy/section5a/HelloWorld2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/solutions/udemy/section5a/HelloWorld3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/solutions/udemy/section5/methods/Methods.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/solutions/udemy/section5methods/Methods.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/solutions/udemy/section5methods/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/solutions/week2/FooBar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/solutions/udemy/methodOverloading/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/solutions/udemy/section6/Switch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/solutions/udemy/section6/For.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/solutions/udemy/section6/While.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/solutions/udemy/section6/ParseValueFromString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/solutions/udemy/tests/formater.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/multiplication/MultiplicationTable2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/multiplication/MultiplicationTablePrintWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/christmas/printChristmasTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/multiplication/MultiplicationTable1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/multiplication/MultiplicationTable3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/pascal/PascalTriangle_oldVersion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/task6firstPullReqs/Codenr1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/task6firstPullReqs/Codenr2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/task6firstPullReqs/Codernr5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/task6firstPullReqs/Codenr3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/task6firstPullReqs/Codenr4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/task6firstPullReqs/Codenr5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/task6/Codenr5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/sort/sort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/fibonacci/FibonacciIterativeArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/fibonacci/FibonacciRecursive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/sort/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/sort/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/sieve/SieveOfEratosthenesOptimized.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/sieve/SieveOfEratosthenes.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/fibonacci/FibonacciIterative.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/coderstrust/foobar/FooBarTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/coderstrust/christmas/ChristmasTreeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/foobar/FooBar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/christmas/ChristmasTree.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/coderstrust/multiplication/MultiplicationTableTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/pascal/PascalTriangle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/coderstrust/pascal/PascalTriangleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderstrust/multiplication/MultiplicationTable.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="solutions-7-arek" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="solutions-7-arek" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="solutions-7-arek" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solutions-7-arek" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solutions-7-arek" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solutions-7-arek" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solutions-7-arek" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solutions-7-arek" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solutions-7-arek" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solutions-7-arek" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solutions-7-arek" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solutions-7-arek" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coderstrust" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solutions-7-arek" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solutions-7-arek" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coderstrust" type="462c0819:PsiDirectoryNode" />
+              <item name="christmas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solutions-7-arek" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solutions-7-arek" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coderstrust" type="462c0819:PsiDirectoryNode" />
+              <item name="foobar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solutions-7-arek" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solutions-7-arek" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coderstrust" type="462c0819:PsiDirectoryNode" />
+              <item name="multiplication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solutions-7-arek" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solutions-7-arek" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coderstrust" type="462c0819:PsiDirectoryNode" />
+              <item name="pascal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solutions-7-arek" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solutions-7-arek" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solutions-7-arek" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solutions-7-arek" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solutions-7-arek" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solutions-7-arek" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coderstrust" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solutions-7-arek" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solutions-7-arek" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coderstrust" type="462c0819:PsiDirectoryNode" />
+              <item name="christmas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solutions-7-arek" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solutions-7-arek" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coderstrust" type="462c0819:PsiDirectoryNode" />
+              <item name="foobar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solutions-7-arek" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solutions-7-arek" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coderstrust" type="462c0819:PsiDirectoryNode" />
+              <item name="multiplication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solutions-7-arek" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solutions-7-arek" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coderstrust" type="462c0819:PsiDirectoryNode" />
+              <item name="pascal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solutions-7-arek" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534854764812" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="E:/git_coderstrust/solutions-7-arek/src/main/java/pl/coderstrust" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.coderstrust.pascal" />
+      <recent name="pl.coderstrust.christmas" />
+      <recent name="pl.coderstrust.multiplication" />
+      <recent name="pl.coderstrust.foobar" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pl.coderstrust.sieve" />
+      <recent name="pl.coderstrust.sort" />
+      <recent name="pl.coderstrust.pascal" />
+      <recent name="pl.coderstrust.multiplication" />
+      <recent name="pl.coderstrust.solutions.udemy.methodOverloading" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git_coderstrust\solutions-7-arek\src\main\java\pl\coderstrust" />
+      <recent name="E:\git_coderstrust\solutions-7-arek\src\main\java\pl\coderstrust\sort" />
+      <recent name="E:\test" />
+      <recent name="E:\git_experimental-repo\" />
+      <recent name="E:\git_experimental-repo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MultiplicationTableTest">
+    <configuration name="PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.coderstrust.pascal.PascalTriangle" />
+      <module name="solutions-7-arek" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.coderstrust.pascal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChristmasTreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="solutions-7-arek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.coderstrust.christmas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.coderstrust.christmas" />
+      <option name="MAIN_CLASS_NAME" value="pl.coderstrust.christmas.ChristmasTreeTest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FooBarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="solutions-7-arek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.coderstrust.foobar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.coderstrust.foobar" />
+      <option name="MAIN_CLASS_NAME" value="pl.coderstrust.foobar.FooBarTest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiplicationTableTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="solutions-7-arek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.coderstrust.multiplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.coderstrust.multiplication" />
+      <option name="MAIN_CLASS_NAME" value="pl.coderstrust.multiplication.MultiplicationTableTest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PascalTriangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="solutions-7-arek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.coderstrust.pascal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.coderstrust.pascal" />
+      <option name="MAIN_CLASS_NAME" value="pl.coderstrust.pascal.PascalTriangleTest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.PascalTriangle" />
+      <item itemvalue="JUnit.PascalTriangleTest" />
+      <item itemvalue="JUnit.ChristmasTreeTest" />
+      <item itemvalue="JUnit.FooBarTest" />
+      <item itemvalue="JUnit.MultiplicationTableTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MultiplicationTableTest" />
+        <item itemvalue="JUnit.PascalTriangleTest" />
+        <item itemvalue="JUnit.FooBarTest" />
+        <item itemvalue="JUnit.ChristmasTreeTest" />
+        <item itemvalue="Application.PascalTriangle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c052675d-5ae2-4ef2-81cd-8c45dba37240" name="Default" comment="" />
+      <created>1531835869850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531835869850</updated>
+      <workItem from="1531835875487" duration="24571000" />
+      <workItem from="1532258305885" duration="30683000" />
+      <workItem from="1532440728413" duration="48285000" />
+      <workItem from="1532734005141" duration="1949000" />
+      <workItem from="1532880608353" duration="187000" />
+      <workItem from="1532881172530" duration="570000" />
+      <workItem from="1532883218568" duration="64000" />
+      <workItem from="1532887397776" duration="1834000" />
+      <workItem from="1532898825880" duration="80000" />
+      <workItem from="1532902785727" duration="7186000" />
+      <workItem from="1533143077352" duration="772000" />
+      <workItem from="1533160620990" duration="2761000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PascalTriangleTest_testDefaultValues - 2018.08.20 at 17h 02m 02s.xml">
+      <configuration name="PascalTriangleTest.testDefaultValues" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PascalTriangleTest - 2018.08.21 at 01h 52m 16s.xml">
+      <configuration name="PascalTriangleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PascalTriangleTest - 2018.08.21 at 02h 16m 57s.xml">
+      <configuration name="PascalTriangleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChristmasTreeTest - 2018.08.21 at 02h 17m 24s.xml">
+      <configuration name="ChristmasTreeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChristmasTreeTest - 2018.08.21 at 02h 17m 33s.xml">
+      <configuration name="ChristmasTreeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FooBarTest - 2018.08.21 at 02h 17m 51s.xml">
+      <configuration name="FooBarTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultiplicationTableTest - 2018.08.21 at 02h 18m 03s.xml">
+      <configuration name="MultiplicationTableTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PascalTriangleTest - 2018.08.21 at 02h 18m 21s.xml">
+      <configuration name="PascalTriangleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultiplicationTableTest - 2018.08.21 at 02h 19m 08s.xml">
+      <configuration name="MultiplicationTableTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MultiplicationTableTest - 2018.08.21 at 02h 25m 32s.xml">
+      <configuration name="MultiplicationTableTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="118942000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5021097" visible="true" weight="0.18251929" />
+      <window_info id="Run" order="1" sideWeight="0.4978903" side_tool="true" visible="true" weight="0.18251929" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Learn" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.49807197" visible="true" weight="0.36204576" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Messages" order="6" sideWeight="0.4781491" weight="0.23149395" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50192803" side_tool="true" visible="true" weight="0.36204576" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.80205655" weight="0.052489907" />
+      <window_info anchor="right" id="Coverage" sideWeight="0.5007728" side_tool="true" visible="true" weight="0.25578406" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.4992272" weight="0.30912596" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/pl/coderstrust/multiplication/MultiplicationTableTest.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/output_size5.txt" />
+    <entry file="file://$PROJECT_DIR$/output_size3.txt" />
+    <entry file="file://$PROJECT_DIR$/output_size8.txt" />
+    <entry file="file://$PROJECT_DIR$/output_size1.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/multiplication/MultiplicationTable3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/pascal/PascalTriangle_oldVersion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Test/experimental-repo/solutions-7-arek/src/main/java/pl/coderstrust/foobar/FooBar.java" />
+    <entry file="file://E:/git_experimental-repo/solutions-7-arek/src/main/java/pl/coderstrust/foobar/FooBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/solutions/udemy/section6/Switch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/test/solutions-7-arek/src/main/java/pl/coderstrust/foobar/FooBar.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/task6-first-pullreqs/code_nr3.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/task6-first-pullreqs/code_nr4.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/task6-first-pullreqs/code_nr5.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/task6firstPullReqs/Code1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/task6-first-pullreqs/code_nr1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/task6-first-pullreqs/code_nr2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/task6/Codenr1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="42" lean-forward="true" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/task6/Codenr2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="42" lean-forward="true" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/task6/Codenr3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="42" lean-forward="true" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/task6/Codenr5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="42" lean-forward="true" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/git_coderstrust/solutions-7-arek/src/main/java/pl/coderstrust/sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/git_coderstrust/solutions-7-arek/src/main/java/pl/coderstrust/sort/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/fibonacci/FibonacciRecursive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Boolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="131" selection-start-line="131" selection-end-line="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/fibonacci/FibonacciIterativeArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/task6/Codenr4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="42" lean-forward="true" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/sort/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/git_coderstrust/solutions-7-arek/src/main/java/pl/coderstrust/sieve/SieveOfEratosthenes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/git_coderstrust/solutions-7-arek/src/main/java/pl/coderstrust/sieve/SieveOfEratosthenesOptimized.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3145">
+          <caret line="129" column="33" selection-start-line="129" selection-start-column="33" selection-end-line="129" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/sieve/SieveOfEratosthenesOptimized.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/sieve/SieveOfEratosthenes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/fibonacci/FibonacciIterative.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/christmas/ChristmasTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runner/notification/Failure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runner/notification/RunNotifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="e#2029#2030#0" expanded="true" />
+            <element signature="e#4348#4349#0" expanded="true" />
+            <element signature="e#4408#4409#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/EachTestNotifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="328" selection-start-line="328" selection-end-line="328" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+          <folding>
+            <element signature="e#1439#1440#0" expanded="true" />
+            <element signature="e#1482#1483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/foobar/FooBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/coderstrust/pascal/PascalTriangleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/coderstrust/christmas/ChristmasTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/pascal/PascalTriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderstrust/multiplication/MultiplicationTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/coderstrust/multiplication/MultiplicationTableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/coderstrust/foobar/FooBarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="41" column="50" lean-forward="true" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>solutions-7-arek</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
